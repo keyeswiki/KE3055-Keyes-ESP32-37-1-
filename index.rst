@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: Keyes ESP32 37合1 传感器套装 介绍
+   :caption: KE3055（KE3055S） Keyes ESP32 37合1 学习套件
 
    README.md
    docs/1. 产品介绍/产品介绍.md
